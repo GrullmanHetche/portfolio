@@ -239,7 +239,7 @@ export default function Home() {
 
       {/* ── FOOTER ───────────────────────────────────── */}
       <footer className={styles.footer}>
-        <span>© 2026 {HYUK}. All rights reserved.</span>
+        <span>© 2026 HYUK. All rights reserved.</span>
       </footer>
     </>
   );
